@@ -1,0 +1,29 @@
+.currency-container {
+    border: 1px solid black;
+    display: inline-block;
+    margin: 10px;
+    padding: 3px 5px;
+    min-width: 137px;
+}
+
+.currency-content {
+    text-align: center;
+}
+
+.currency-content span{
+    margin-right: 5px;
+    font-size: 19px;
+}
+
+.currency-buttons {
+    text-align: center;
+}
+
+.currency-buttons button{
+    margin: 3px;
+    background: #098bfb;
+    border: none;
+    padding: 4px 8px;
+    border-radius: 3px;
+    cursor: pointer;
+}

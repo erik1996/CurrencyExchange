@@ -1,0 +1,19 @@
+.menu {
+    list-style:none;
+    display: inline-block;
+}
+
+.menu li {
+    margin: 0 17px;
+    display: inline-block;
+}
+
+.menu a {
+    display: block;
+    text-decoration: none;
+    border: 1px solid;
+    min-width: 75px;
+    text-align: center;
+    padding: 5px 7px;
+    color: black;
+}

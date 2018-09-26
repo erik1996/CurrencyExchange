@@ -1,0 +1,11 @@
+.default-container {
+    float: left;
+}
+
+.default-container h3 {
+    margin: 10px;
+}
+
+.favorite-container {
+    float: right;
+}
